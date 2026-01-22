@@ -9,7 +9,7 @@ https://iili.io/H7B4QYF.png
 
 
 ##404
-#EXTINF:-1 group-logo="https://iili.io/H7B4QYF.png" tvg-id="BOO" tvg-name="BOO" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroBoo_2024.png" group-title="Movies" ch-number="404",404 BOO (( ⏳ Not 24H ))
+#EXTINF:-1 group-logo="https://iili.io/H7B4QYF.png" tvg-id="BOO" tvg-name="BOO" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroBoo_2024.png" group-title=" Premier Access" ch-number="404",404 BOO (( ⏳ Not 24H ))
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -17,7 +17,7 @@ https://iili.io/H7B4QYF.png
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SMRV076G Build/UKQ1.240805.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6950.85 Mobile Safari/537.36
 https://20c45cf794ec4a3cac12fb76717fd621.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH18-dash/vsg/41J8AUdNK79xtWHiPCdnsn83yE-Aa8Wh1Sw3wTyxjkbFo=SLKZ/dash-wv/jitp-dashisowm/2407/default_ott.mpd?aws.sessionId=de705d99-ef2f-4eb1-bb74-927b11e1e9e6
 
-@#EXTINF:-1 group-logo="https://iili.io/H7B4QYF.png" tvg-id="BOO" tvg-name="BOO" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroBoo_2024.png" group-title="Movies" ch-number="404",404 BOO (( ⏳ Not 24H ))
+@#EXTINF:-1 group-logo="https://iili.io/H7B4QYF.png" tvg-id="BOO" tvg-name="BOO" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroBoo_2024.png" group-title=" Premier Access" ch-number="404",404 BOO (( ⏳ Not 24H ))
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -28,7 +28,7 @@ https://load.perfecttv.net/mpd/boo/manifest.mpd?username=vip_j4yck1td&password=C
 
 
 ##611
-#EXTINF:-1 group-logo="https://iili.io/H7B4QYF.png" tvg-id="AstroCeria" tvg-name="CERIA HD" group-title="Kids TV" tvg-logo="https://i.ibb.co/ycDN5VtK/Astro-Ceria-2024.png" ch-number="611",611 Ceria HD (( ⏳ Not 24H ))
+#EXTINF:-1 group-logo="https://iili.io/H7B4QYF.png" tvg-id="AstroCeria" tvg-name="CERIA HD" group-title=" Premier Access" tvg-logo="https://i.ibb.co/ycDN5VtK/Astro-Ceria-2024.png" ch-number="611",611 Ceria HD (( ⏳ Not 24H ))
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Dw6mw1Q8Kdf1E+uIbrdPiA", "kid":"tuYMoNKOj5c5Xwe04uU6EA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
