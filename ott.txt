@@ -1,12 +1,19 @@
-#EXTM3U billed-msg="SUBSCRIPTION : BASIC"
+#EXTM3U billed-msg="⚠️⚠️ SHOPEE needy.sl scammer pencuri playlist ⚠️⚠️"
 ##########################################################################################################################
 
 1 DEVICE
 
 https://iili.io/q9KNAxa.png
-######################## 3 HOT CHANNEL SOOKA
+########################
+
+#EXTINF:-1 group-logo="https://static.vecteezy.com/system/resources/thumbnails/012/042/301/small/warning-sign-icon-transparent-background-free-png.png" tvg-id="BOO" tvg-name="BOO" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/012/042/301/small/warning-sign-icon-transparent-background-free-png.png" group-title="‎needy.sl Scammer. Pencuri Playlist" ch-number="404",⚠️ needy.sl Scammer. Pencuri Playlist
+http://217.216.110.49:8000/b
 
 
+#EXTINF:-1 group-logo="https://static.vecteezy.com/system/resources/thumbnails/012/042/301/small/warning-sign-icon-transparent-background-free-png.png" tvg-id="BOO" tvg-name="BOO" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/012/042/301/small/warning-sign-icon-transparent-background-free-png.png" group-title="‎needy.sl Scammer. Pencuri Playlist" ch-number="404",⚠️ BUAT PLAYLIST SENDIRI LA BRO
+http://217.216.110.49:8000/b
+
+############################################
 
 ##404
 #EXTINF:-1 group-logo="https://iili.io/q9KNAxa.png" tvg-id="BOO" tvg-name="BOO" tvg-logo="https://i.ibb.co/hF69DQJq/Astro-Boo-2024.png" group-title="HOT CHANNEL" ch-number="404",404 BOO (Not 24H)
@@ -411,13 +418,7 @@ https://fastly.live.brightcove.com/6374053280112/eu-west-1/6058004203001/eyJhbGc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #https://rmtv-canela.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="826.astro" tvg-name="W-Sport" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/W-Sport.png" ch-number="826",826 W-Sport HD (Not 24H)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"nNXA0eVMIuA12I3Twd/ITA","kid":"AQy7nPGgHq04Bwcw04vHEA"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; ZTE A7030 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.6943.121 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5060/default_ott.mpd
-
-#EXTINF:-1 tvg-id="826.astro" tvg-name="W-Sport" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/W-Sport.png" ch-number="826",826 W-Sport HD (Not 24H)
+@#EXTINF:-1 tvg-id="826.astro" tvg-name="W-Sport" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/W-Sport.png" ch-number="826",826 W-Sport HD (Not 24H)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"nNXA0eVMIuA12I3Twd/ITA","kid":"AQy7nPGgHq04Bwcw04vHEA"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; ZTE A7030 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.6943.121 Mobile Safari/537.36
