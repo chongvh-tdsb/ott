@@ -1,21 +1,11 @@
-#EXTM3U billed-msg="⚠️⚠️ SHOPEE needy.sl scammer pencuri playlist ⚠️⚠️"
+#EXTM3U billed-msg="SUBSCRIPTION : BASIC | SELAMAT HARI RAYA!!"
 ##########################################################################################################################
 
 1 DEVICE
 
 https://iili.io/q9KNAxa.png
-########################
-
-#EXTINF:-1 group-logo="https://static.vecteezy.com/system/resources/thumbnails/012/042/301/small/warning-sign-icon-transparent-background-free-png.png" tvg-id="BOO" tvg-name="BOO" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/012/042/301/small/warning-sign-icon-transparent-background-free-png.png" group-title="‎needy.sl Scammer. Pencuri Playlist" ch-number="404",⚠️ needy.sl Scammer. Pencuri Playlist
-http://217.216.110.49:8000/b
-
-
-#EXTINF:-1 group-logo="https://static.vecteezy.com/system/resources/thumbnails/012/042/301/small/warning-sign-icon-transparent-background-free-png.png" tvg-id="BOO" tvg-name="BOO" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/012/042/301/small/warning-sign-icon-transparent-background-free-png.png" group-title="‎needy.sl Scammer. Pencuri Playlist" ch-number="404",⚠️ BUAT PLAYLIST SENDIRI LA BRO
-http://217.216.110.49:8000/b
-
-############################################
-
 ######################## 3 HOT CHANNEL SOOKA
+
 
 
 ##404
@@ -103,20 +93,20 @@ https://l05.dp.sooka.my/608/linear/index.mpd
 
 
 ##803
-#EXTINF:-1 group-logo="https://iili.io/q9KNAxa.png" tvg-id="803.astro" tvg-name="ARENA BOLA" group-title="Sports" tvg-logo="https://i.ibb.co/DRvRqg9/Astro-Arena-Bola-1-2024.png" ch-number="803",803 Arena Bola HD (Not 24H)
+@#EXTINF:-1 group-logo="https://iili.io/q9KNAxa.png" tvg-id="803.astro" tvg-name="ARENA BOLA" group-title="Sports" tvg-logo="https://i.ibb.co/DRvRqg9/Astro-Arena-Bola-1-2024.png" ch-number="803",803 Arena Bola HD (Not 24H)
 http://217.216.110.49:8000/bola1J1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=499a8f368064b11cc092b7b013db0710:e151bb81468a8426d6ab12860d314aa3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
 https://2da559d4c1d24884a735abbc512e6181.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH24-dash/vsg/41mVEQynkPBp0B6xXUwF2UUdafUBcxHA6zrZB9rPsV3v4=_Rga/dash-wv/jitp-dashisowm/5099/default_ott.mpd?aws.sessionId=31430889-9ec6-40cf-9b1b-f374d0b3e7a9
 
-@#EXTINF:-1 group-logo="https://iili.io/q9KNAxa.png" tvg-id="803.astro" tvg-name="ARENA BOLA" group-title="Sports" tvg-logo="https://i.ibb.co/DRvRqg9/Astro-Arena-Bola-1-2024.png" ch-number="803",803 Arena Bola HD (Not 24H)
+#EXTINF:-1 group-logo="https://iili.io/q9KNAxa.png" tvg-id="803.astro" tvg-name="ARENA BOLA" group-title="Sports" tvg-logo="https://i.ibb.co/DRvRqg9/Astro-Arena-Bola-1-2024.png" ch-number="803",803 Arena Bola HD (Not 24H)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=499a8f368064b11cc092b7b013db0710:e151bb81468a8426d6ab12860d314aa3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
-https://linears2-playback.astro.com.my/vsg/41uf6UwNA13Oho6IYjzk7FLk_eo4QhWq8jGfUdhkPeRVw=BgWu/dash-wv/jitp-linearwm/5099/default_ott.mpd
+https://linears2-playback.astro.com.my/vsg/41uf6UwNA13Oho6IYjzk7FLrgKxYBHrepNkD0lNrIY3xc=GSug/dash-wv/jitp-linearwm/5099/default_ott.mpd
 
 @#EXTINF:-1 group-logo="https://iili.io/q9KNAxa.png" tvg-id="803.astro" tvg-name="ARENA BOLA" group-title="Sports" tvg-logo="https://i.ibb.co/DRvRqg9/Astro-Arena-Bola-1-2024.png" ch-number="803",803 Arena Bola HD (Not 24H)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -128,13 +118,13 @@ https://load.perfecttv.net/mpd/bola1/manifest.mpd
 
 ##804
 #EXTINF:-1 tvg-id="AstroArenaBola2" ch-number="804" tvg-logo="https://i.ibb.co/4Wk65pX/Astro-Arena-Bola-2-2024.png" group-title="Sports",804 Arena Bola 2 HD (Not 24H)
-http://217.216.110.49:8000/bola2J1
+###http://217.216.110.49:8000/bola2J1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=62a7b7917aad5123cd4df65c561c7010:b1effa9e51cf38b3ae676bc264937efb
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
-https://linears2-playback.astro.com.my/vsg/41EIzfYqm94C7larpD54uzqJaS13RJJMRppV_GfNe-ot8=F3Ye/dash-wv/jitp-linearwm/5100/default_ott.mpd
+https://linears2-playback.astro.com.my/vsg/418GgXgizPNS7BC81b3SVXSTe7VKgbDGW-3bnvVKxu7EA=dXvX/dash-wv/jitp-linearwm/5100/default_ott.mpd
 
 @#EXTINF:-1 tvg-id="AstroArenaBola2" ch-number="804" tvg-logo="https://i.ibb.co/4Wk65pX/Astro-Arena-Bola-2-2024.png" group-title="Sports",804 Arena Bola 2 HD (Not 24H)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -194,7 +184,7 @@ https://load.perfecttv.net/mpd/epl2/manifest.mpd
 
 
 ##815
-#EXTINF:-1 tvg-id="AstroBadminton" ch-number="815" group-title="Sports" tvg-logo="https://i.ibb.co/xqPpPGMS/Astro-Badminton-1-2024.png",815 Badminton HD (Not 24H)
+@#EXTINF:-1 tvg-id="AstroBadminton" ch-number="815" group-title="Sports" tvg-logo="https://i.ibb.co/xqPpPGMS/Astro-Badminton-1-2024.png",815 Badminton HD (Not 24H)
 http://217.216.110.49:8000/badmintonJ1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -210,14 +200,15 @@ https://11d1b8e3842949bcbcf26e20ed80c3d3.mediatailor.ap-southeast-1.amazonaws.co
 #KODIPROP:inputstream.adaptive.license_key=6ff0e040d544ec3f02243865990f0c10:83728b47019abdbb37aa36ed5f2951bd
 https://linears2-playback.astro.com.my/vsg/41K7lpY1kry-2RBrGEIUVTNGtaeycArllmBNcEOBclmwA=G8m9/dash-wv/jitp-linearwm/5170/default_ott.mpd
 
-@#EXTINF:-1 tvg-id="AstroBadminton" ch-number="815" group-title="Sports" tvg-logo="https://i.ibb.co/xqPpPGMS/Astro-Badminton-1-2024.png",815 Badminton HD (Not 24H)
+#EXTINF:-1 tvg-id="AstroBadminton" ch-number="815" group-title="Sports" tvg-logo="https://i.ibb.co/xqPpPGMS/Astro-Badminton-1-2024.png",815 Badminton HD (Not 24H)
+https://load.perfecttv.net/rwt.m3u8?username=vip_3klp0es8&password=wg3piwEs&channel=badminton
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MiTV-AXSO0 Build/QTZCS200912.005) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"g3KLRwGavbs3qjbtXylRvQ","kid":"b/DgQNVE7D8CJDhlmQ8MEA"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; ZTE A7030 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.6943.121 Mobile Safari/537.36
-https://load.perfecttv.net/mpd/badminton/manifest.mpd
+
 
 
 
@@ -338,22 +329,22 @@ https://linearjitp-playback.astro.com.my/dash-wv/dashiso/5171/default_ott.mpd
 
 ##### TNT SPORTS
 
-#EXTINF:-1 group-title="Sports" tvg-id="tnt100a" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdfH03NGMKIvM39OFPc9t0VSwprb7OZxCvUA&usqp=CAU",TNT SPORTS 1
+@#EXTINF:-1 group-title="Sports" tvg-id="tnt100a" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdfH03NGMKIvM39OFPc9t0VSwprb7OZxCvUA&usqp=CAU",TNT SPORTS 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
 https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
-#EXTINF:-1 group-title="Sports" tvg-id="tnt200a" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdfH03NGMKIvM39OFPc9t0VSwprb7OZxCvUA&usqp=CAU",TNT SPORTS 2
+@#EXTINF:-1 group-title="Sports" tvg-id="tnt200a" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdfH03NGMKIvM39OFPc9t0VSwprb7OZxCvUA&usqp=CAU",TNT SPORTS 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
 https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
 
-#EXTINF:-1 group-title="Sports" tvg-id="tnt300a" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdfH03NGMKIvM39OFPc9t0VSwprb7OZxCvUA&usqp=CAU",TNT SPORTS 3
+@#EXTINF:-1 group-title="Sports" tvg-id="tnt300a" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdfH03NGMKIvM39OFPc9t0VSwprb7OZxCvUA&usqp=CAU",TNT SPORTS 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bf5787d2c610c41a7
 https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
 
-#EXTINF:-1 group-title="Sports" tvg-id="tnt400aa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdfH03NGMKIvM39OFPc9t0VSwprb7OZxCvUA&usqp=CAU",TNT SPORTS 4
+@#EXTINF:-1 group-title="Sports" tvg-id="tnt400aa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdfH03NGMKIvM39OFPc9t0VSwprb7OZxCvUA&usqp=CAU",TNT SPORTS 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
 https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
@@ -951,6 +942,88 @@ https://tupai.kakiflix.com/spoTV
 @https://unifi.whacat.tech/spoTV2
 #https://sghost.mobileads.uno/uni5/uni5.mpd?id=spoTV2
 https://tupai.kakiflix.com/spoTV2
+
+##############################BEIN#####################################
+
+
+@#EXTINF:-1 group-logo="https://iili.io/q9KNAxa.png" tvg-id="beINSports" tvg-logo="https://i.ibb.co/X9JhHyY/bein-edit-2.png" group-title="Unifi TV;Sports",BeIN SPORTS 1 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PEUIrzSIRBB/XgJqT9axbg","kid":"GmVRiatcSesjUwjCsannEA"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
+#https://linears2-playback.astro.com.my/vsg/41R9HwOLEdrX6XIRjESJHbh0EiNgs4AEX_c9IsfHf9DDI=9nb3/dash-wv/jitp-linearwm/408/default_ott.mpd
+
+#EXTINF:-1 group-logo="https://iili.io/q9KNAxa.png" tvg-id="beINSports" tvg-logo="https://i.ibb.co/X9JhHyY/bein-edit-2.png" group-title="Unifi TV;Sports",BeIN SPORTS 1 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"6XdhQfnpSSc6BysOA1Bwqw","kid":"1ItgiCU8RD65TSfLeCj3Bw"}],"type":"temporary"}
+#https://unifi.whacat.tech/Bein1
+https://get.perfecttv.net/myunifi.mpd?username=vip_pjgkj04t&password=sM53WzmS&channel=Bein1&kid=d48b6088-253c-443e-b94d-27cb7828f707
+
+@#EXTINF:-1 group-logo="https://iili.io/q9KNAxa.png" tvg-id="beINSports" tvg-logo="https://i.ibb.co/X9JhHyY/bein-edit-2.png" group-title="Unifi TV;Sports",BeIN SPORTS 1 HD B
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"6XdhQfnpSSc6BysOA1Bwqw","kid":"1ItgiCU8RD65TSfLeCj3Bw"}],"type":"temporary"}
+#https://sghost.mobileads.uno/uni5/uni5.mpd?id=Bein1
+
+
+
+@#EXTINF:-1 tvg-id="beINSports2" tvg-name="beIN Sports 2 HD" group-title="Unifi TV;Sports" tvg-logo="https://i.ibb.co/X9JhHyY/bein-edit-2.png",BeIN SPORTS 2 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"UQKxKqx3VsZdy0ahAdlg0w","kid":"OcF1WB4jfv+VWWB+ubI8EA"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
+https://linears2-playback.astro.com.my/vsg/419sfeOJLK0nPKF2LPhpzHD0QpUs8Icp4N8vyE5BQLjX8=zpLs/dash-wv/jitp-linearwm/5066/default_ott.mpd
+
+#EXTINF:-1 tvg-id="beINSports2" tvg-name="beIN Sports 2 HD" group-title="Unifi TV;Sports" tvg-logo="https://i.ibb.co/X9JhHyY/bein-edit-2.png",BeIN SPORTS 2 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"XQ9Ei1KpIDXjdjxKYCdZMw","kid":"76b/Gs76QwSOi3rcIdmIcQ"}],"type":"temporary"}
+#https://unifi.whacat.tech/Bein2
+https://get.perfecttv.net/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Bein2&kid=efa6ff1a-cefa-4304-8e8b-7adc21d98871
+
+#EXTINF:-1 tvg-id="beINSports2" tvg-name="beIN Sports 2 HD" group-title="Unifi TV;Sports" tvg-logo="https://i.ibb.co/X9JhHyY/bein-edit-2.png",BeIN SPORTS 2 HD B
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"XQ9Ei1KpIDXjdjxKYCdZMw","kid":"76b/Gs76QwSOi3rcIdmIcQ"}],"type":"temporary"}
+#https://sghost.mobileads.uno/uni5/uni5.mpd?id=Bein2
+
+
+
+#EXTINF:-1 tvg-id="beinsports3.unifi" tvg-logo="https://i.ibb.co/X9JhHyY/bein-edit-2.png" group-title="Unifi TV;Sports",BeIN SPORTS 3 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"BCohvyNspymx40PtbgpjNw","kid":"IMiE747Saydi+LGnjy0ZEA"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_primary.mpd
+
+@#EXTINF:-1 tvg-id="beinsports3.unifi" tvg-logo="https://i.ibb.co/X9JhHyY/bein-edit-2.png" group-title="Unifi TV;Sports",BeIN SPORTS 3 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ynZKmXO2EjoREs/9OzIBDQ","kid":"gW7i98GfSe2EJ280VBtGWw"}],"type":"temporary"}
+#https://unifi.whacat.tech/Bein3
+https://tupai.kakiflix.com/beINSPORTS3
+
+#EXTINF:-1 tvg-id="beinsports3.unifi" tvg-logo="https://i.ibb.co/X9JhHyY/bein-edit-2.png" group-title="Unifi TV;Sports",BeIN SPORTS 3 HD B
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ynZKmXO2EjoREs/9OzIBDQ","kid":"gW7i98GfSe2EJ280VBtGWw"}],"type":"temporary"}
+#https://sghost.mobileads.uno/uni5/uni5.mpd?id=Bein3
+
+
+
+#EXTINF:-1 tvg-id="711.unifi" tvg-logo="https://i.ibb.co/X9JhHyY/bein-edit-2.png" group-title="Unifi TV;Sports",BeIN SPORTS 4 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=d561ff976397473e9b456b44cdffcdd2:2b6cff42f7fae7e8bc32f3d5c62dc3c2
+#https://unifi.whacat.tech/Bein4
+#https://sghost.mobileads.uno/uni5/uni5.mpd?id=Bein4
+
 
 ##############################CHINESE##################################
 
@@ -1652,6 +1725,24 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5110/default_ott.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_ott.mpd
 
+#EXTINF:-1 tvg-id="hbohd.unifi" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/9A5A508C-BB3A-4139-8C2F-8B092336F192/0-16x9.png?width=530" group-title="MOVIES",401 HBO
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"cYcWxDWRSQHSVRkwolaXTg","kid":"etiI7l3WSWqMLHemKE/5Ng"}],"type":"temporary"}
+@https://unifi.whacat.tech/HBO
+#https://sghost.mobileads.uno/uni5/uni5.mpd?id=HBO
+https://get.perfecttv.net/myunifi.mpd?username=vip_pjgkj04t&password=sM53WzmS&channel=HBO&kid=7ad888ee-5dd6-496a-8c2c-77a6284ff936
+
+#EXTINF:-1 tvg-id="cinemax.unifi" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/479F46FE-15C6-498A-92C1-8E583B79E487/0-16x9.png?width=530" group-title="MOVIES",404 Cinemax
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"HqU8JHsRXWw7s3pNBIWjfA","kid":"uDORwPfGQUK6oyaxAcnz1A"}],"type":"temporary"}
+@https://unifi.whacat.tech/Cinemax
+#https://sghost.mobileads.uno/uni5/uni5.mpd?id=Cinemax
+https://get.perfecttv.net/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Cinemax&kid=b83391c0-f7c6-4142-baa3-26b101c9f3d4
+
 #EXTINF:-1  tvg-id="HITSMovies" tvg-name="Hits Movies HD" group-title="MOVIES" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//ENT//New//E_HitsM.png",401 HITS MOVIES
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2122,12 +2213,6 @@ https://mifntechnology.github.io/siaranMy/radio/AsyikFm/playlist.m3u8
 https://mifntechnology.github.io/siaranMy/radio/8Fm/playlist.m3u8
 
 
-
-###########################################VOD###############################################
-
-   
-
-#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml,https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://i.mjh.nz/PlutoTV/all.xml,https://i.mjh.nz/SamsungTVPlus/us.xml,https://i.mjh.nz/SamsungTVPlus/kr.xml,https://epg.pw/xmltv/epg_MY.xml,https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml" refresh="1440" vod_library="https://drive.usercontent.google.com/u/0/uc?id=117xPiO8VauMhb8tPK6mPpKUcemcIDpbP&export=download"
 
 ###########################################VOD###############################################
 
